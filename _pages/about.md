@@ -2,24 +2,39 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: >
+  PhD Student @ CS, Technion • MLE & Data Scientist @ Sibylla
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: aviv-prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a PhD student in the [VISTA Lab](https://vista.cs.technion.ac.il) at the
+Technion [Computer Science Faculty](https://cs.technion.ac.il), advised by
+Prof. [Alex Bronstein](https://bron.cs.technion.ac.il). I am also a machine
+learning engineer and data scientist at [Sibylla](https://sibylla.ai), where I
+lead the design and implementation of our ML platform.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on implementing machine learning tools for practical use in
+medicine and biology, including modeling and analysis of heart rate
+variability, detection of abnormalities in ECG signals, statistical methods
+such as conformalization and quantile regression,
+quantification of uncertainty, and reliability in deep learning systems in
+medical applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold an MSc in Biomedical Engineering and a BSc in Electrical Engineering,
+both from the Technion. Previously head TA of the CS faculty's [Deep
+Learning](https://vistalab-technion.github.io/cs236781/semesters/w22/) course
+(2019-2022).
+
+In addition to a my research pursuits, I have a strong technical background in
+software engineering. Before starting my PhD I worked in multiple technical
+roles. I have extensive experience writing robust, testable, well-designed
+code, leading software teams and architecting large-scale systems.

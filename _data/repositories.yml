@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - avivrosenberg
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - vistalab-technion/vqr
+  - physiozoo/mhrv
+  - vistalab-technion/cs236781-tutorials
+  - avivrosenberg/dotfiles
